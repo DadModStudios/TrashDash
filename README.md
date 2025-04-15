@@ -14,8 +14,7 @@ Take control of the legendary bin chicken, dodge flying bins, peck for scraps, a
 - C#
 - GitHub Pages (for this site)
 
-## 🌏 Play Demo or Learn More
-🕹️ Website: [https://yourusername.github.io/trashdash](https://yourusername.github.io/trashdash)  
+## 🌏 Learn More 
 📸 Facebook: [Trash Dash on Facebook](#)  
 🎨 Studio: [DadMod Studios](#)
 
