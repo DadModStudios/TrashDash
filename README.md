@@ -1,1 +1,1 @@
-# TrashDash: Bin Chicken Edition
+# TrashDash
